@@ -5,7 +5,7 @@ This is brainfxxx for Anipoko!
 # ruby main.rb samples/sample1.bf
 ```
 
-![gif](./gif/brain_anipok.gif)
+![gif](./gif/brain_anipoko.gif)
 
 note:
 This is a folk of [this repo](https://github.com/vsanna/dd_brainfuck/tree/master/samples)
